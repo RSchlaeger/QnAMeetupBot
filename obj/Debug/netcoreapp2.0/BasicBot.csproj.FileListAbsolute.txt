@@ -1,0 +1,12 @@
+C:\Users\RobertSchlaeger\source\repos\meetup\QnAMeetup-src\obj\Debug\netcoreapp2.0\BasicBot.csprojAssemblyReference.cache
+C:\Users\RobertSchlaeger\source\repos\meetup\QnAMeetup-src\obj\Debug\netcoreapp2.0\BasicBot.csproj.CoreCompileInputs.cache
+C:\Users\RobertSchlaeger\source\repos\meetup\QnAMeetup-src\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfoInputs.cache
+C:\Users\RobertSchlaeger\source\repos\meetup\QnAMeetup-src\obj\Debug\netcoreapp2.0\BasicBot.AssemblyInfo.cs
+C:\Users\RobertSchlaeger\source\repos\meetup\QnAMeetup-src\bin\Debug\netcoreapp2.0\QnAMeetup.bot
+C:\Users\RobertSchlaeger\source\repos\meetup\QnAMeetup-src\bin\Debug\netcoreapp2.0\BasicBot.deps.json
+C:\Users\RobertSchlaeger\source\repos\meetup\QnAMeetup-src\bin\Debug\netcoreapp2.0\BasicBot.runtimeconfig.json
+C:\Users\RobertSchlaeger\source\repos\meetup\QnAMeetup-src\bin\Debug\netcoreapp2.0\BasicBot.runtimeconfig.dev.json
+C:\Users\RobertSchlaeger\source\repos\meetup\QnAMeetup-src\bin\Debug\netcoreapp2.0\BasicBot.dll
+C:\Users\RobertSchlaeger\source\repos\meetup\QnAMeetup-src\bin\Debug\netcoreapp2.0\BasicBot.pdb
+C:\Users\RobertSchlaeger\source\repos\meetup\QnAMeetup-src\obj\Debug\netcoreapp2.0\BasicBot.dll
+C:\Users\RobertSchlaeger\source\repos\meetup\QnAMeetup-src\obj\Debug\netcoreapp2.0\BasicBot.pdb

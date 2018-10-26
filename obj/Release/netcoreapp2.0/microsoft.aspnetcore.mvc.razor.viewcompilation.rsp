@@ -1,0 +1,5 @@
+C:\Users\RobertSchlaeger\source\repos\meetup\QnAMeetup-src
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=BasicBot
+--content-root=C:\Users\RobertSchlaeger\source\repos\meetup\QnAMeetup-src
+--file=

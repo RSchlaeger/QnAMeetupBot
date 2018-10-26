@@ -1,0 +1,50 @@
+{
+  "name": "QnAMeetup",
+  "padlock": "hPvt52A7+FcW19oWopkajA==!+XQeXaMfeU2MzQcEm5UvVl7yi2HsGes8t6yfQcjnvgjbkxgHhA7PDLCLtfhc1O00",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "a2c9dbc5-0263-4fd8-9905-12560f92adc8",
+      "subscriptionId": "2f5243c1-72a4-418e-b58a-e10e12495baf",
+      "resourceGroup": "MeetupAzureFunctions",
+      "serviceName": "QnAMeetup",
+      "type": "abs",
+      "name": "QnAMeetup",
+      "id": "1"
+    },
+    {
+      "connectionString": "15WanpZvEw8dyvp1kctwJg==!oGkxb7cWlGTURrJdGlQtjMV0lgdLOHBvYovFpTSohiJ/A7gOuBflUkGjs/D2z5GFQVMmmlOhLP/fYzqRwHCkrhc21X4mPKocBHdUFPlF6evgnFcBeBNDKD6i+PU6SzXGA33/VsWRArADsTiba2ukDQFLP6fjr6GS7Kc8r5nEr6LqUwvOBjmULxF2YUJ8drzwHMlN/pd1nbhbMH1OPeJlCyJFVALmZ0D+k0dxGdwfAys=",
+      "tenantId": "a2c9dbc5-0263-4fd8-9905-12560f92adc8",
+      "subscriptionId": "2f5243c1-72a4-418e-b58a-e10e12495baf",
+      "resourceGroup": "MeetupAzureFunctions",
+      "serviceName": "meetupchatbot9ad5",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "ec17be7b-96be-4f6a-a7e9-fdb8a7c754a9",
+      "appPassword": "uFw30fw7cmNZhKgDIcxIsQ==!8KTDiqgirIejq4SYDuwmHlIazNXZaWEfnxjzJxtblqc=",
+      "endpoint": "https://qnameetup-b6be.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "appId": "8e999126-3fd8-41e5-88b5-e57d126a0ad5",
+      "authoringKey": "KmV9fY2gYf7IvUb5a3c6Bg==!I5s8cuHOPzzQD5sK9we/FXxRlqG/9YZd1tABAavu3Rpi7Rc1OwFXT60wfKBBRnC4",
+      "version": "0.1",
+      "region": "westeurope",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "5"
+    }
+  ]
+}
