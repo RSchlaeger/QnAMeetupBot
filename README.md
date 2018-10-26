@@ -13,11 +13,19 @@ This bot has been created using [Microsoft Bot Framework](https://dev.botframewo
 Your appsettings.json file should look like this
 ```bash
 {
-    "botFilePath": "<copy value from App settings>",
-    "botFileSecret": "<copy value from App settings>"
+  "ApiKey": "",
+  "DomainEndpoint": "", //Eg westeurope
+  "QnAPAth": "https://{{QnAConginitveServiceName}}.azurewebsites.net/qnamaker/knowledgebases/{{Key}}/generateAnswer",
+  "QnAAuthHeader": "{{KeyForAuthHeader}}",
+  "botFilePath": "./{{NameOfTheQNABOT}}.bot",
+  "botFileSecret": "{{YouNeedToGenerateABotFileSECRETFIRST",
+  "bingSpellCheckKey": "{{APIKEYForSpellCheck}}"
 }
 ```
-
+# Authors
+This Demo is taken from the standard Microsoft Botframework sample project (credit and thanks to them!) and was extended by me. 
+If you have any questions about the slides or the technologies involved in making this bot please don't hesitate to contact either me:
+Robert Schlaeger (Twitter: @RobAnybody) or Sebastian Jensen (Twitter: @tsjdevapps, GitHub: https://github.com/tsjdev-apps) at any time.
 
 ## Run in Visual Studio
 - Open the .sln file with Visual Studio.
