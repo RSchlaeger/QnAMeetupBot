@@ -24,7 +24,7 @@ namespace BasicBot.Services
         public async Task<QnAAnswer> GetQnAAnswer(string query)
         {
             var qnaUrl = _configuration.GetValue<string>("QnAPAth");
-            var qnaAuthHeaderValue = _configuration.GetValue<string>("QnAAuthHeader");
+            var qnaAuthHeaderValue = _configuration.GetValue<string>("QnAAuthHeaderKeyValue");
             var body = new QnAQuery();
             body.question = query;
 
